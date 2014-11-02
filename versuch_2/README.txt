@@ -1,7 +1,7 @@
 
 File List
 ------------
-Documantation
+Documentation
   Übung_2.pdf
 Source files for part 2
   src/SP_Decoder.vhd
