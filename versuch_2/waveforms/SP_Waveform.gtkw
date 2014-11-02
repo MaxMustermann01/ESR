@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.58 (w)1999-2014 BSI
+[*] Sun Nov  2 11:37:48 2014
+[*]
+[dumpfile] "/home/max/Studiumscheiß/ESR/esr_repo/ESR/versuch_2/src/SP_Decoder.vcd"
+[dumpfile_mtime] "Sun Nov  2 11:30:51 2014"
+[dumpfile_size] 1312
+[savefile] "/home/max/Studiumscheiß/ESR/esr_repo/ESR/versuch_2/waveforms/SP_Waveform.gtkw"
+[timestart] 0
+[size] 1535 876
+[pos] -534 -1
+*-24.914993 152600000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 224
+[signals_width] 156
+[sst_expanded] 1
+[sst_vpaned_height] 248
+@28
+clk
+reset
+@29
+din
+@28
+led_reg[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
